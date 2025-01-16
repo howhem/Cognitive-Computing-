@@ -1,1 +1,2 @@
-# Cognitive-Computing-
+# Cognitive-Computing
+Author Priyam chandola
